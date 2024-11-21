@@ -45,13 +45,23 @@ a {
 .hero {
     max-width: 1200px;
     margin: 0  auto;
+    display: flex;
+    padding-top: 100px;
+    padding-bottom: 70px;
+    justify-content: space-between;
+    align-items: center;
+    
 
 }
 .title {
     font-size: 48px;
     width: 900;
     color: #f9faf8;
-    padding-top: 150px;
-    padding-bottom: 70px;
+    
+    
+}
+
+.image img {
+    width: 650px;
 }
 
