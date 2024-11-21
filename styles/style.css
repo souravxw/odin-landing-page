@@ -134,7 +134,7 @@ button {
     color:#1f2937 ;
     padding-top: 100px;
     padding-bottom: 100px;
-    margin-bottom: 200px;
+    margin-bottom: 150px;
     
     
 
@@ -145,3 +145,36 @@ button {
     text-align: end;
     margin-top: 20px;
 }
+
+/* call to action section  */
+.call-to-action {
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #3882f6;
+    padding: 50px 0px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 150px;
+}
+
+
+
+.action-heading {
+    font-size: 18px;
+    font-weight: 900;
+}
+.action-text {
+    color: #f9faf8;
+}
+
+.action-button button {
+    border: 1px solid #e5e7eb;
+    border-radius: 4px;
+    color: #e5e7eb;
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+
