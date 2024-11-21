@@ -89,6 +89,7 @@ button {
 .info-section {
     max-width: 1200px;
     margin: 0 auto;
+    margin-bottom: 200px;
 }
 
 .info-section > p {
@@ -116,3 +117,31 @@ button {
     width: 100%;
 }
 
+/* quote section  */
+.quote-container {
+    background-color: #e5e7eb ;
+}
+.quote-section {
+    max-width: 1200px;
+    margin: 0 auto;
+    
+}
+
+.quote  {
+    
+    font-size: 36px;
+    font-style: italic;
+    color:#1f2937 ;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin-bottom: 200px;
+    
+    
+
+    
+}
+
+.writer {
+    text-align: end;
+    margin-top: 20px;
+}
